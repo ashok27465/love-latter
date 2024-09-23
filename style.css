@@ -47,7 +47,7 @@
     position: absolute;
     z-index: 2;
     width: 0px;
-    height: 0px;
+    height: 10px;
     border-top: 130px solid transparent;
     border-right: 150px solid var(--envelope-cover);
     border-bottom: 100px solid var(--envelope-cover);
