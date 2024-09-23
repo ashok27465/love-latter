@@ -71,8 +71,8 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: var(--txt-color);
     text-align: left;
-    font-size: 7px;
-    color:darkcyan;
+    font-size: 8.6px;
+    color:rgb(2, 15, 15);
   }
   .heart {
     position: absolute;
