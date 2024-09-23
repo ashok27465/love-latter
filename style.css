@@ -57,9 +57,9 @@
     position: absolute;
     right: 20%;
     bottom: 0;
-    width: 50%;
-    height: 80%;
-    font-size:5px;
+    width: 55%;
+    height: 85%;
+    font-size:6px;
     background: var(--primary);
     text-align: center;
     transition: all 1s ease-in-out;
